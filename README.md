@@ -18,7 +18,9 @@ These are the steps I took to improve the codebase for long-term sustatainabilit
 - Changed the title to be more despriptive 
 
 ## Screenshot
+![Website Screenshot](./assets/images/Horisen%20Screenshot%201.png)
 
+![website Screenshot](./assets/images/Horisen%20Screenshot%202.png)
 
 ## Links
 Website URL: https://minh2nguyen.github.io/HW-Challenge-01/ 
