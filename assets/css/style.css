@@ -68,7 +68,7 @@ figure {
     float: right;
     margin-left: 25px;
 }
-
+/* This displays the main selections */
 main {
     width: 75%;
     display: inline-block;
@@ -91,7 +91,7 @@ main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* This displays the additions on the side */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -118,7 +118,7 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* This is the footer */
 footer {
     padding: 30px;
     clear: both;
